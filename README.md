@@ -1,5 +1,5 @@
 
-#     gnome-display-switcher-hdmi
+#     gnome-display-switcher-hdmi for Wayland
 
 
 
